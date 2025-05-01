@@ -1,5 +1,7 @@
 # FWIP
 
+![Image](https://github.com/user-attachments/assets/b71eeee1-dc8a-42ba-8016-344deba4656e)
+
 As a member of the fuselage subteam in the Fixed-Wing Innovation Project (FWIP), I’ve had the opportunity to take part in a hands-on, multidisciplinary effort to design, manufacture, and test a fully 3D-printed remote-controlled aircraft. FWIP is a student-led aerospace engineering project that culminates in a competition (CSULA 3D Printed Aircraft Competition) where teams are evaluated based on flight performance, structural design, and manufacturing innovation. The challenge lies in creating a functional and efficient aircraft within strict constraints on weight, size, and material limitations, using additive manufacturing as the primary method of fabrication.
 
 The fuselage team plays a critical role in the overall success of the aircraft, as the fuselage serves as the central structural body to which all other components — wings, tail, landing gear, and internal electronics — are attached. Our main objective is to design a lightweight yet structurally sound airframe that can withstand aerodynamic and landing loads while providing sufficient space and mounting points for servos, wiring, batteries, and the flight controller. This requires balancing aerodynamics, material distribution, internal support geometry, and weight constraints.
