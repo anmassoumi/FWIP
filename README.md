@@ -1,4 +1,4 @@
-# FWIP
+# Fixed-Wing Aircraft 
 
 ![Image](https://github.com/user-attachments/assets/b71eeee1-dc8a-42ba-8016-344deba4656e)
 
